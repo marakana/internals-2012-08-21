@@ -1,17 +1,17 @@
 = Android Internals
 
-14 August 2012
+21 August 2012
 
 *Ken Jones*, <ken@marakana.com>
 http://marakana.com[Marakana, Inc.]
 
 To clone the repository:
 
-	git clone git://github.com/marakana/internals-2012-08-14.git
+	git clone git://github.com/marakana/internals-2012-08-21.git
 
 or
 
-	git clone http://github.com/marakana/internals-2012-08-14.git
+	git clone http://github.com/marakana/internals-2012-08-21.git
 
 or download a Zip archive by clicking the link above.
 
